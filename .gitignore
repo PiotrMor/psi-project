@@ -69,3 +69,6 @@ fabric.properties
 
 
 data
+
+notebooks/.ipynb_checkpoints/*
+venv/*
