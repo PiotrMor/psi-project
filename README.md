@@ -1,15 +1,10 @@
-# psi-project
+# Projekt PSI
 
-Dropbox: 
-https://www.dropbox.com/sh/s3jhgxe13e8f9jw/AADko9DkyvlCDqhekWvMlUOva?dl=0
+## Temat projektu
+Co jest silniejsze w niespójnym warunku (inc): dźwięk vs obraz? a może negatywne vs pozytywne? (np. nieważne czy negatywny jest dźwięk czy obraz, ważne że co najmniej jedno jest negatywne i całość też jest negatywna)
 
-### Co trzeba rzeby działało
-* anaconda 3
-* pycharm professional
-
-
-### Problemy
-
-Jak jest problem z **matplotlib** to:
-
-`conda install matplotlib`
+## Projekt wykonali
+* Paweł Renc
+* Tomasz Pęcak
+* Maciej Bielech
+* Piotr Morawiecki
